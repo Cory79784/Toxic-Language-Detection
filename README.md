@@ -23,17 +23,13 @@ Primary Targets:
 3.Demographic fearmongering ("breeding threat")
 
 
-*Dataset
-Source: 5,000 comments from Stormfront.org
-
-
-*Processing:
+**Processing:
 1. Removed metadata
 2. Balanced sampling (191 toxic/355 non-toxic for ML)
 3. Multi-stage dictionary refinement
 
 
-*Methodology
+**Methodology
 1. Machine Learning Pipeline
 
 graph TD
